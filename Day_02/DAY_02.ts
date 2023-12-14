@@ -1,0 +1,1 @@
+// I learned how to install TS properly
